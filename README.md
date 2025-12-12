@@ -10,7 +10,7 @@ making planing easy and fun for you.
 
 steps to setup the project:
 
-1. clone this repository by running `git clone https://github.com/MohsinKhanAptech/CitiGuide` in terminal where you want the project.
+1. clone this repository by running `git clone https://github.com/donatedsalt/CitiGuide` in terminal where you want the project.
 2. open project folder with VS code.
 3. run: `flutter ugprade` in terminal.
 4. run: `flutter pub get` in terminal.
